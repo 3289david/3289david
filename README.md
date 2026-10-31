@@ -1,5 +1,7 @@
 # <div align="center">
 
+# contact@rukkit.net
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+David;Full-Stack+Developer;Open+Source+Builder;Cloud+%26+Security+Enthusiast;Always+Shipping+New+Ideas" />
 
 <br>
